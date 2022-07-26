@@ -1,1 +1,1 @@
-curl -s https://raw.githubusercontent.com/websterwh16/speedtest-cli/master/speedtest.py | python -
+curl -s https://raw.githubusercontent.com/websterwh/speedtest-cli/master/speedtest.py | python -
